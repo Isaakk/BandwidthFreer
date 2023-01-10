@@ -1,0 +1,11 @@
+mod = [
+	"BandwidthFreer"
+]
+
+package = [
+	"resource_packages/BandwidthFreer/BandwidthFreer"
+]
+
+lua = [
+	"scripts/mods/BandwidthFreer/*"
+]
